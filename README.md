@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+Updated README file<<<<<<< HEAD
 new readme
 =======
 My first read me
